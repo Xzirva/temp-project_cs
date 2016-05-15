@@ -3,10 +3,12 @@
 <scenarios>
 <scenario id='1'>
 	<step dialog='1'/>
+
 	<step dialog='2'/>
 </scenario>
 <scenario id='2'>
 	<step dialog='2'/>
+
 	<step dialog='1'/>
 </scenario>
 </scenarios>
