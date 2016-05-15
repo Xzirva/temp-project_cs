@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<dialogs>
+<d id='5'>
+<part char='1'>Salut</part>
+<part char='2'>Aurevoir</part>
+<part char='1'>Je suis ton PERE</part>
+<part char='2'>Je n'ai pas de père</part>
+</d>
+
+<d id='6'>
+<part char='1'>Bonjour</part>
+<part char='2'>Salut</part>
+<part char='1'>Je suis ton FILS</part>
+<part char='2'>*_*!</part>
+</d>
+</dialogs>

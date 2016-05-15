@@ -1,0 +1,5 @@
+/home/scorpion/Projects/loadDialogs/loadDialogs/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/scorpion/Projects/loadDialogs/loadDialogs/bin/Debug/loadDialogs.exe.mdb
+/home/scorpion/Projects/loadDialogs/loadDialogs/bin/Debug/loadDialogs.exe
+/home/scorpion/Projects/loadDialogs/loadDialogs/obj/x86/Debug/loadDialogs.exe
+/home/scorpion/Projects/loadDialogs/loadDialogs/obj/x86/Debug/loadDialogs.exe.mdb
