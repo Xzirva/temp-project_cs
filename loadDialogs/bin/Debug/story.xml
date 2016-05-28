@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<story>
+	<characters>
+		<char id='1' face="x.png" >Dark Vador</char>
+		<char id='2' face="y.png" >Luke</char>
+		<char id='3' face="z.png" >Luke</char>
+	</characters>
+	<scenes>
+		<scene id='1' map="village">
+			<content>
+				<cinematic id='1'>
+				</cinematic>
+				<dialog>
+					<part char='1'>Luke ?</part>
+					<part char='2'>Je suis ton p¨¨re !</part>
+					<part char='1'>NOOOOOOOOOOOOOOOOOOOOOOOO !</part>
+				</dialog>
+			</content>
+			<choices>
+				<c goto='2'>Sauter dans le vide #Yolo</c>
+				<c goto='3'>Ne rien faire</c>
+			</choices>
+		</scene>
+	</scenes>
+</story>

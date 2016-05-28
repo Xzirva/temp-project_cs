@@ -16,7 +16,8 @@ namespace loadDialogs
 			//Console.WriteLine (dialog);
 			//List<Character> l = Character.get_all ();
 			//foreach(Character c in l)
-				Console.WriteLine (Dialogs.ToString());
+			Console.WriteLine (Scene.find(Scene.find(1).get_choices().First().get_next_scene()));
+			Console.WriteLine (Character.find(2).get_profile());
 		}
 	}
 }

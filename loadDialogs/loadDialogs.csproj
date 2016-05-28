@@ -40,7 +40,4 @@
     <Compile Include="Dialogs.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ItemGroup>
-    <None Include="dialogs.xml" />
-  </ItemGroup>
 </Project>
